@@ -1,0 +1,5 @@
+
+score = int(input("width:"))
+score2 = int(input("height: "))
+total = score * score2
+print("넓이는 {}".format(total))
