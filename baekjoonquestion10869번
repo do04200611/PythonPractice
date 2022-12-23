@@ -3,7 +3,7 @@ D = A+B
 C = A-B
 E = A*B
 F = A//B
-R = A%
+R = A%B
 
 if(A<=1 or B<=10,000):
     print("{}".format(D))
