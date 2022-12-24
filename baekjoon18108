@@ -1,0 +1,6 @@
+y= int(input())
+x=int
+
+if(1000 <= y or y <= 3000):
+    x=y-543
+    print("{}".format(x))
