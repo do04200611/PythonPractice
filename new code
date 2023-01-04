@@ -1,0 +1,4 @@
+sum = 0
+num = int(input("값을"))
+for i in range(sum,num) :
+    print(num+sum)
